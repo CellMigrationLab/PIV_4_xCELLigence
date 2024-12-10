@@ -1,8 +1,6 @@
 # PIV_4_xCELLigence
 PIV analysis for xCELLigence timelapse image data
 
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/https://github.com/CellMigrationLab/PIV_4_xCELLigence/blob/main/notebooks/PIV-analysis_96_well_plate.ipynb)
-
 # Particle Image Velocimetry (PIV) Analysis Workflow
 
 ## Overview
