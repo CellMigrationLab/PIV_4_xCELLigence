@@ -9,13 +9,12 @@ This repository provides a comprehensive workflow for **Particle Image Velocimet
 - **CSV metrics**: Metrics such as average velocity, direction, and divergence.
 - **Summary plots**: Graphs for individual and averaged data with error bars.
 
- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CellMigrationLab/PIV_4_xCELLigence/blob/main/notebooks/PIV-analysis_96_well_plate.ipynb)
+To run the notebook click here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CellMigrationLab/PIV_4_xCELLigence/blob/main/notebooks/PIV-analysis_96_well_plate.ipynb)
 
+**Expected input data:**
 
----
-
-## If you use this tool please cite the original code
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4409178.svg)](https://doi.org/10.5281/zenodo.4409178)
+- Time-lapse tiff
+- RGB images (will be converted to grayscale)
 
 ---
 
@@ -45,7 +44,10 @@ This repository provides a comprehensive workflow for **Particle Image Velocimet
    - Plots for user defined groups and conditions.
    - Averaged plots with error bars for groups sharing the same label.
 
+---
 
+## If you use this tool please cite the original code
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4409178.svg)](https://doi.org/10.5281/zenodo.4409178)
 
 
 
