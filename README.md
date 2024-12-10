@@ -14,7 +14,7 @@ This repository provides a comprehensive workflow for **Particle Image Velocimet
 
 ---
 
-## If you use this too please cite the original code
+## If you use this tool please cite the original code
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4409178.svg)](https://doi.org/10.5281/zenodo.4409178)
 
 ---
