@@ -9,6 +9,9 @@ This repository provides a comprehensive workflow for **Particle Image Velocimet
 - **CSV metrics**: Metrics such as average velocity, direction, and divergence.
 - **Summary plots**: Graphs for individual and averaged data with error bars.
 
+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CellMigrationLab/PIV_4_xCELLigence/blob/main/notebooks/PIV-analysis_96_well_plate.ipynb)
+
+
 ---
 
 ## If you use this too please cite the original code
