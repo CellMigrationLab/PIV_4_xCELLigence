@@ -38,10 +38,11 @@ This repository provides a comprehensive workflow for **Particle Image Velocimet
 
 5. **CSV Concatenation**:
    - Combine individual CSV files into one for easier data handling.
-   - Add a column indicating the source file for traceability.
+   - Add a columns indicating the source file for traceability and mapped conditions.
 
 6. **Plotting Summary Graphs**:
-   - Individual plots for each group and condition.
+   - Individual plots for user defined PIV metrics.
+   - Plots for user defined groups and conditions.
    - Averaged plots with error bars for groups sharing the same label.
 
 
