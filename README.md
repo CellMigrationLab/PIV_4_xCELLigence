@@ -6,15 +6,16 @@ PIV analysis for xCELLigence timelapse image data
 ## Overview
 This repository provides a comprehensive workflow for **Particle Image Velocimetry (PIV)** analysis, enabling the processing of multi-frame TIFF videos to compute and analyze flow metrics. The workflow generates:
 - **Flow field visualizations**: Color-coded flow vectors.
-- **CSV metrics**: Metrics such as average velocity, direction, and divergence.
+- **PIV metrics**: Metrics such as average velocity, direction, and divergence.
 - **Summary plots**: Graphs for individual and averaged data with error bars.
-
-To run the notebook click here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CellMigrationLab/PIV_4_xCELLigence/blob/main/notebooks/PIV-analysis_96_well_plate.ipynb)
 
 **Expected input data:**
 
 - Time-lapse tiff
 - RGB images (will be converted to grayscale)
+
+To run the notebook click here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CellMigrationLab/PIV_4_xCELLigence/blob/main/notebooks/PIV-analysis_96_well_plate.ipynb)
+
 
 ---
 
